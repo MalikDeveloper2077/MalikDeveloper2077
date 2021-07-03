@@ -14,6 +14,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/redis-83994.png"></code>
 
 Skills:
 ---

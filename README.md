@@ -27,6 +27,7 @@ Skills:
   + #### Backend:
 
     + Python (Django, Django REST Framework, FastAPI)
+    + Message queue: Celery & Redis
     + SQL-db: PostrgreSQL, MySQL
 
 

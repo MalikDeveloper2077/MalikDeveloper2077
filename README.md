@@ -13,10 +13,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png"></code>
 
 Skills:
 ---
-  + OOP, BEM, MVC, REST API, SOLID
+  + OOP, MVC, REST API, SOLID, BEM
   + Docker, docker-compose
   + VCS: Git
   + Git repositories: GitHub, GitLab, BitBucket
@@ -25,7 +26,7 @@ Skills:
  
   + #### Backend:
 
-    + Python (Django, Django REST Framework)
+    + Python (Django, Django REST Framework, FastAPI)
     + SQL-db: PostrgreSQL, MySQL
 
 
